@@ -1,0 +1,10 @@
+comparison,traditional_vs_fine_tuned,,,traditional_vs_pre_trained,,
+metric,PESQ,SDR,SNR,PESQ,SDR,SNR
+filename,,,,,,
+"ES_Game, Retro, 8 Bit, Hit Hurt 26 - Epidemic Sound - 2375-2770.wav",1.08446455,-28.60358147,-11.33785188,1.079176426,-47.01486255,-4.18216E-05
+"ES_Retro, 8 Bit, Character, Taking, Damage - Epidemic Sound - 0000-0405.wav",1.059792399,-12.33080125,-6.485183695,1.100986958,-9.787367541,-4.759162286
+"ES_Retro, Star, Win, Gain x1 - Epidemic Sound.wav",1.146539211,-12.76625633,-6.414956754,1.119310617,-22.39078871,-9.69867431
+"ES_Warning, Danger, Alarm, Attention, Futuristic Tech, Input Response 01 - Epidemic Sound.wav",1.819163084,-20.75757131,-18.95547097,1.099086523,-17.87647304,-18.09644116
+jump.wav,,-12.7473297,-36.03652785,,-24.39508031,-33.86465453
+land.wav,,-19.33848502,-14.15755706,,-6.314659375,-4.496910239
+laser_gun_player.wav,1.023884058,-9.583196275,-22.89638164,1.041973114,-13.43939507,-12.04395108
